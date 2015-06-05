@@ -6,8 +6,8 @@ This will be nothing nifty - so dont get your head too big on this!
 best wishes, 
 yours GuruMeditation Master
 
-PS: Yes GuruMeditation is a reference to all those many, many GuruMeditation screens I had back in the days of Amiga (A500) C-programming.
-All those un-initialized pointers for the AmigaLib-Calls, still get my head spinning.. 
+PS: Yes GuruMeditation is a reference to all those many, many GuruMeditation screens I had back in the days of Amiga C-programming (on an A500 PAL 68000 7,09MHz 512kB ChipMem+512kB Extension with WorkBench 1.2).
+All those un-initialized pointers of the calls to the AmigaLib, still get my head spinning.. 
 "What was that ? Was it an airplaine, .. a pointer, a reference or just a big, nifty ZERO!??"
 
 Want a peek on the Amiga-style? 
